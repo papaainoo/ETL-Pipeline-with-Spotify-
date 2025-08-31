@@ -54,6 +54,4 @@ spotify-etl-pipeline/
 └── README.md                 # You're reading it!
 ```
 
-## 📬 Contact
 
-If you’re also exploring data engineering or cloud projects — I’d love to connect!
